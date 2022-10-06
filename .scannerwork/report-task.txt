@@ -1,0 +1,6 @@
+projectKey=SbomTest3
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=SbomTest3
+ceTaskId=AYMAIrNnTBFwAAhF3JT6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYMAIrNnTBFwAAhF3JT6
